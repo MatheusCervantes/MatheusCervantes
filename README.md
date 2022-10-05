@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Matheus!
+## 👋 **Hi, I'm Matheus!**
 ### **.** 💡- I am interested in learning and sharing my knowledge related to programming.
 ### **.** 🖥️- I am studying a Bachelor's Degree in Information System at the Federal Institute of São Paulo.
 ### **.** 📧- How to contact me? It's easy, either by my Telegram like @MatheusCervantes or by sending an email to: matheuscervantes1@gmail.com
@@ -9,7 +9,7 @@
 ##
 <div align="left">
 
-## Programming languages ​​that interest me
+## 💾 **Programming languages that interest me**
 <div align="center" style="display: inline_block"><br>
 <img align="center" alt="C++" height="30" width="40" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg">
 <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -27,7 +27,7 @@
 
 ##
 
-## 📱 Connect with me
+## 📱 **Connect with me**
 <div align="center">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matheus-cervantes55)
