@@ -50,8 +50,6 @@
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nhsl4y3gebm4naqnmwzbdpi1m&cover_image=true&theme=default&show_offline=false" /></div>  
-
 <br/>  
 
 <div align="center">
