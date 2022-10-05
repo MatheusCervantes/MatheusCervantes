@@ -3,6 +3,8 @@
 ### **.** 🖥️- I am studying a Bachelor's Degree in Information System at the Federal Institute of São Paulo.
 ### **.** 📧- How to contact me? It's easy, either by my Telegram like @MatheusCervantes or by sending an email to: matheuscervantes1@gmail.com
 
+##
+
 <div align="center">
 <img alt="Stats" height="150em" src="https://github-readme-stats.vercel.app/api?username=MatheusCervantes&show_icons=true&theme=tokyonight&bg_color=RGB,255,408,255&hide=contribs"/> <img alt="Top Langs" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusCervantes&hide=css,cmake,html&langs_count=6&layout=compact&theme=tokyonight&bg_color=RGB,255,408,255"/> 
 
