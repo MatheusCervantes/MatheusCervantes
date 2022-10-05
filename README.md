@@ -23,7 +23,7 @@
 <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <div align="left">
 
-##### ***Note: I intend to specialize in all of them by the end of 2023. Follow me on linkedin for updates.***
+###### ***Note: I intend to specialize in all of them by the end of 2023. Follow me on linkedin for updates.***
 
 ##
 
