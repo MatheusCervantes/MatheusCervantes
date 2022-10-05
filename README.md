@@ -56,7 +56,6 @@
 <img src="https://komarev.com/ghpvc/?username=MatheusCervantes&&style=flat-square" align="center" />
 </div>  
   
-<img src="https://github-readme-stats.vercel.app/api?username=MatheusCervantes&show_icons=true&count_private=true&hide_border=true" align="left" />
 
 <br/>  
 
