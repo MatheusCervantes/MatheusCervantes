@@ -24,7 +24,7 @@
 <img align="center" alt="PHP" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 <img align="center" alt="Linux" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
 <img align="center" alt="Google Cloud" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
-<img align="center" alt="AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg">
+<img align="center" alt="AWS" height="50" width="60" src="https://img.icons8.com/color/48/000000/amazon-web-services.png">
 <img align="center" alt="jQuery" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg">
 <img align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg">
 <div align="left">
